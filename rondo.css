@@ -409,3 +409,10 @@ footer small, footer {
   color: #3a2e22 !important;
   opacity: 1 !important;
 }
+
+
+
+/* Hide top nav */
+nav {
+  display: none !important;
+}
